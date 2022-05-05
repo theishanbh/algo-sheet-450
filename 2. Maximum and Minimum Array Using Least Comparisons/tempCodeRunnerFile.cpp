@@ -1,0 +1,2 @@
+
+    cout << "Min : " << min << endl;
